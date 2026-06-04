@@ -1,16 +1,67 @@
-## Hi there 👋
+# Dr Mohammad Firoz Khan
 
-<!--
-**mfk2you/mfk2you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO | Ghous E Azam Hospital
 
-Here are some ideas to get you started:
+Building **Gahai HMS**, an AI-assisted Hospital Management System designed for dental, medical, and multi-specialty healthcare organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a healthcare entrepreneur and technology enthusiast focused on building modern healthcare software using Django and cloud-native technologies.
+
+My primary project is **Gahai HMS**, a comprehensive healthcare platform that combines clinical workflows, billing, inventory management, workflow automation, analytics, and future AI-assisted capabilities.
+
+## Current Areas of Focus
+
+* Healthcare Technology
+* Python & Django
+* Multi-Tenant SaaS Architecture
+* AI-Assisted Healthcare Systems
+* Workflow Automation
+* Billing & Financial Systems
+* Pharmacy & Inventory Management
+* Kubernetes & Cloud Infrastructure
+
+## Gahai HMS
+
+Key modules currently under development:
+
+* OPD Management
+* IPD Management
+* Dental Management
+* Orthodontics
+* Implant Management
+* Pharmacy Management
+* Central Inventory Management
+* Billing & Financial Ledger
+* Workflow Automation
+* Analytics & Business Intelligence
+* AI-Assisted Clinical Intelligence
+
+## Technology Stack
+
+* Python
+* Django
+* Django REST Framework
+* PostgreSQL
+* Redis
+* Celery
+* Docker
+* Kubernetes
+* Prometheus
+* Grafana
+
+## Areas of Interest
+
+* Healthcare Software Architecture
+* AI in Healthcare
+* Enterprise System Design
+* Clinical Workflow Automation
+* Multi-Tenant SaaS Platforms
+* Medical Device Integration
+
+## Connect
+
+GitHub: https://github.com/mfk2you
+
+Always interested in discussing healthcare technology, Django architecture, AI-assisted systems, and scalable healthcare software.
+
