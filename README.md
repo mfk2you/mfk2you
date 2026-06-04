@@ -1,3 +1,11 @@
+## Hello 👋
+
+I'm Dr Mohammad Firoz Khan, a dentist, healthcare entrepreneur, and technology enthusiast.
+
+I am currently building Gahai HMS, an AI-assisted healthcare platform focused on integrating clinical workflows, billing, pharmacy, inventory, analytics, and future healthcare intelligence systems into a unified architecture.
+
+My interests include healthcare technology, biomedical engineering, embedded systems, artificial intelligence, enterprise software architecture, and cloud-native development.
+
 # Dr Mohammad Firoz Khan
 
 Founder & CEO | Ghous E Azam Hospital
