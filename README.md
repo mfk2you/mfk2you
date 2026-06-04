@@ -1,51 +1,168 @@
-## Hello 👋
+# Hello 👋
 
-I'm Dr Mohammad Firoz Khan, a dentist, healthcare entrepreneur, and technology enthusiast.
+I'm **Dr Mohammad Firoz Khan**, a dentist, healthcare entrepreneur, technology enthusiast, and founder of Ghous E Azam Hospital.
 
-I am currently building Gahai HMS, an AI-assisted healthcare platform focused on integrating clinical workflows, billing, pharmacy, inventory, analytics, and future healthcare intelligence systems into a unified architecture.
+I am currently building **Gahai HMS**, an AI-assisted healthcare platform designed to bridge the gap between clinical practice, healthcare operations, biomedical engineering, artificial intelligence, and modern software architecture.
 
-My interests include healthcare technology, biomedical engineering, embedded systems, artificial intelligence, enterprise software architecture, and cloud-native development.
+My goal is to create healthcare technology that is built from real clinical experience rather than purely technical assumptions.
 
-# Dr Mohammad Firoz Khan
+---
 
-Founder & CEO | Ghous E Azam Hospital
+# About Me
 
-Building **Gahai HMS**, an AI-assisted Hospital Management System designed for dental, medical, and multi-specialty healthcare organizations.
+My background combines:
 
-## About Me
-
-I am a healthcare entrepreneur and technology enthusiast focused on building modern healthcare software using Django and cloud-native technologies.
-
-My primary project is **Gahai HMS**, a comprehensive healthcare platform that combines clinical workflows, billing, inventory management, workflow automation, analytics, and future AI-assisted capabilities.
-
-## Current Areas of Focus
-
+* Clinical Dentistry
+* Healthcare Operations
+* Hospital Administration
 * Healthcare Technology
-* Python & Django
-* Multi-Tenant SaaS Architecture
-* AI-Assisted Healthcare Systems
-* Workflow Automation
-* Billing & Financial Systems
-* Pharmacy & Inventory Management
-* Kubernetes & Cloud Infrastructure
+* Artificial Intelligence
+* Biomedical Engineering
+* Embedded Systems
+* Enterprise Software Architecture
 
-## Gahai HMS
+This combination allows me to approach healthcare software from both the clinical and technical perspectives.
 
-Key modules currently under development:
+I believe the future of healthcare will be built at the intersection of medicine, intelligent automation, connected devices, and AI-assisted decision support systems.
 
-* OPD Management
-* IPD Management
-* Dental Management
-* Orthodontics
+---
+
+# Gahai HMS
+
+Gahai HMS is a comprehensive healthcare platform designed for:
+
+* Dental Clinics
+* Multi-Specialty Hospitals
+* Diagnostic Centers
+* Healthcare Groups
+* Future Healthcare SaaS Deployments
+
+The platform combines:
+
+* Patient Management
+* OPD & IPD Workflows
+* Dental & Orthodontic Workflows
 * Implant Management
 * Pharmacy Management
 * Central Inventory Management
-* Billing & Financial Ledger
+* Financial Ledger & Billing
 * Workflow Automation
+* Reporting & Document Management
 * Analytics & Business Intelligence
-* AI-Assisted Clinical Intelligence
+* AI-Assisted Healthcare Intelligence
 
-## Technology Stack
+---
+
+# AI Vision
+
+Artificial Intelligence is a core component of the long-term Gahai architecture.
+
+The objective is not to replace healthcare professionals.
+
+The objective is to augment them.
+
+---
+
+## Clinical Intelligence
+
+Future AI capabilities include:
+
+* Clinical Documentation Assistance
+* Patient Timeline Summarization
+* Treatment History Summaries
+* Follow-Up Recommendations
+* Clinical Risk Detection
+* Knowledge Retrieval using RAG
+* Intelligent Search Across Medical Records
+
+---
+
+## Financial Intelligence
+
+AI-assisted financial systems may provide:
+
+* Revenue Leakage Detection
+* Missed Billing Detection
+* Fraud Detection
+* Duplicate Charge Identification
+* Refund Pattern Analysis
+* Cash Collection Monitoring
+* Financial Risk Analysis
+* Outstanding Recovery Insights
+
+---
+
+## Inventory Intelligence
+
+AI-assisted inventory management may provide:
+
+* Inventory Consumption Analysis
+* Stock Forecasting
+* Expiry Risk Detection
+* Purchase Recommendations
+* Vendor Performance Analysis
+* Inventory Loss Detection
+* Implant Usage Analytics
+
+---
+
+## Operational Intelligence
+
+Future operational AI systems may assist with:
+
+* Workflow Bottleneck Detection
+* Resource Utilization Analysis
+* Appointment No-Show Prediction
+* Staff Productivity Analytics
+* Queue Optimization
+* Department Performance Monitoring
+
+---
+
+## Patient Engagement Intelligence
+
+Future AI communication systems may support:
+
+* AI Patient Assistant
+* WhatsApp-Based Healthcare Assistant
+* Automated Follow-Up Management
+* Appointment Reminders
+* Treatment Education
+* Patient Satisfaction Analysis
+* Multilingual Patient Communication
+
+---
+
+## Healthcare Knowledge Platform
+
+Future knowledge systems may include:
+
+* RAG-Based Knowledge Retrieval
+* Clinical Protocol Search
+* Hospital SOP Search
+* Staff Knowledge Assistant
+* Training Assistant
+* Administrative Knowledge Assistant
+
+---
+
+# Biomedical Engineering & Device Integration
+
+I am particularly interested in integrating healthcare software with medical devices and embedded systems.
+
+Future areas of interest include:
+
+* RVG Systems
+* CBCT Systems
+* Patient Monitoring Devices
+* IoT Medical Devices
+* Device Telemetry
+* Real-Time Clinical Data Processing
+* Intelligent Device Automation
+
+---
+
+# Technology Stack
 
 * Python
 * Django
@@ -58,18 +175,30 @@ Key modules currently under development:
 * Prometheus
 * Grafana
 
-## Areas of Interest
+---
+
+# Areas of Interest
 
 * Healthcare Software Architecture
 * AI in Healthcare
-* Enterprise System Design
-* Clinical Workflow Automation
+* Biomedical Engineering
+* Embedded Systems
+* Enterprise Software Design
 * Multi-Tenant SaaS Platforms
+* Clinical Workflow Automation
 * Medical Device Integration
+* Cloud Infrastructure
 
-## Connect
+---
+
+# Current Mission
+
+Building an intelligent healthcare platform that combines clinical expertise, operational experience, artificial intelligence, biomedical engineering concepts, and modern software architecture to improve healthcare delivery and patient outcomes.
+
+---
+
+# Connect
 
 GitHub: https://github.com/mfk2you
 
-Always interested in discussing healthcare technology, Django architecture, AI-assisted systems, and scalable healthcare software.
-
+Always interested in discussing healthcare technology, Django architecture, AI-assisted systems, medical device integration, and large-scale healthcare software platforms.
